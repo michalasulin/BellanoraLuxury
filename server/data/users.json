@@ -1,0 +1,135 @@
+[
+  {
+    "id": 2,
+    "username": "מיכל",
+    "tz": "214821399",
+    "email": "michal21399@gmail.com",
+    "telephone": "0556722124",
+    "password": "$2b$10$1HM6rpetTyudtYxgfcBHQO2W9ioNv6g02jJE976GS8P/bcnMgIZku",
+    "role": "admin",
+    "isTemporary": true
+  },
+  {
+    "id": 3,
+    "username": "h@gmail.com",
+    "tz": "214587455",
+    "email": "s@gmail.com",
+    "telephone": "055555555",
+    "password": "$2b$10$/Bgb234L1l.V9YZ4VFE0mex9WMBTHXrcv8HgP9/ffpli0h6t2wJPu",
+    "role": "user"
+  },
+  {
+    "id": 4,
+    "username": "j",
+    "tz": "888888888",
+    "email": "j@gmail.com",
+    "telephone": "0588888888",
+    "password": "$2b$10$Rphkvl6kaDW6.1rynYjMwe1GZsH4WBz0DgLfW.m03BAvNzi2j9tMS",
+    "role": "user"
+  },
+  {
+    "id": 5,
+    "username": "שרי",
+    "tz": "987654321",
+    "email": "sari@gmail.com",
+    "telephone": "0556722123",
+    "password": "$2b$10$G8FYTitM8a7TFVZrUE35D.5s6GeTwkL14B44p2r5XpHDXg9p6YMX6",
+    "role": "user",
+    "isTemporary": false
+  },
+  {
+    "id": 6,
+    "username": "m",
+    "tz": "111111111",
+    "email": "m@gmail.com",
+    "telephone": "0511111111",
+    "password": "$2b$10$La/gTt9GYEe0LU4Bxq640uuUmDhqTGNeVXlaTiHyKwxZJD7ZP.m5C",
+    "role": "admin",
+    "isTemporary": false
+  },
+  {
+    "id": 7,
+    "username": "a",
+    "tz": "666666666",
+    "email": "a@gmail.com",
+    "telephone": "0566666666",
+    "password": "$2b$10$P9r/o6J.8BjZesPbpzYpXeZCuR0kcp83y7aPVB/FzaN5GySagMz2u",
+    "role": "user",
+    "isTemporary": false
+  },
+  {
+    "id": 8,
+    "username": "b",
+    "tz": "222222222",
+    "email": "b@gmail.com",
+    "telephone": "0522222222",
+    "password": "$2b$10$qGmE3D/TQRJjOlPWPaZPzONczhZYRCvymEB0w.VZSU8AC1jgMC3tK",
+    "role": "admin"
+  },
+  {
+    "id": 9,
+    "username": "p",
+    "tz": "999999999",
+    "email": "p@gmail.com",
+    "telephone": "0599999999",
+    "password": "$2b$10$CpMUxerxWlehvn0PuRrtR.uw2E7xke3I1oWTYyHwmNgxXb2b3CFx6",
+    "role": "user"
+  },
+  {
+    "id": 10,
+    "username": "levi",
+    "tz": "123456789",
+    "email": "levi@gmail.com",
+    "telephone": "05512345678",
+    "password": "$2b$10$xTP3oEmwz8eA.DJ.UMMvyerqP0tLAaxJQu53Zl6qxy3TB0F7EsZku",
+    "role": "user"
+  },
+  {
+    "id": 11,
+    "username": "cohen",
+    "tz": "121212121",
+    "email": "cohen@gmail.com",
+    "telephone": "05511111111",
+    "password": "$2b$10$vYTYmw9cEILgr1./bGt00./bXNrkUx6iSJw9uDq7lOBQw1RMcbYM.",
+    "role": "user"
+  },
+  {
+    "id": 12,
+    "username": "vv",
+    "tz": "789654123",
+    "email": "vv@gmail.com",
+    "telephone": "0556722127",
+    "password": "$2b$10$lnDKc2mNNzGAVxe1xIgzPuHFOkB1TCZ6m7fJaUa2.ofVX0PAckQFW",
+    "role": "user"
+  },
+  {
+    "id": 13,
+    "username": "rr",
+    "tz": "789654127",
+    "email": "rr@gmail.com",
+    "telephone": "0556722125",
+    "password": "$2b$10$FxKQbaQxlDvlVAlYdCvJ0uJVWt./nxFoOdCijTHRiTxr4B5fNyn4.",
+    "role": "user",
+    "isTemporary": false
+  },
+  {
+    "id": 14,
+    "username": "צוש כהן",
+    "tz": "325749109",
+    "email": "michal213@gmail.com",
+    "telephone": "0583294073",
+    "password": "$2b$10$4GUYcep8Y9dXmvi1HUZji.DYK5Lz3qFJUUA66tDmSbXYM/0c8CXz.",
+    "role": "user",
+    "isTemporary": false
+  },
+  {
+    "id": 15,
+    "username": "tova",
+    "tz": "060865615",
+    "email": "tovaleas@gmail.com",
+    "telephone": "0527112123",
+    "password": "$2b$10$I3.uwHdHbrhtbohOUiq/DuiWheq7Oa4eKgu0AGZXS0BmsGHfN1DmW",
+    "role": "user",
+    "isTemporary": false
+  }
+]

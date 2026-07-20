@@ -1,0 +1,92 @@
+<!-- $.ajax({
+    type: 'GET',
+      dataType:"jsonp",
+    url: 'https://jsonplaceholder.typicode.com/todos/1',
+    headers:{         
+        'Authorization' : 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBWZXIiOiIwLjAuMCIsImV4cCI6NDcyNjM4OTEyMiwibG9jYWxlIjoiIiwibWFzdGVyVmVyIjoiIiwicGxhdGZvcm0iOiIiLCJwbGF0Zm9ybVZlciI6IiIsInVzZXJJZCI6IiJ9.QIZbmB5_9Xlap_gDhjETfMI6EAmR15yBtIQkWFWJkrg',
+        
+    },
+    success: function (data, status, xhr) {
+      console.log('data: ', data);
+    }
+  }); -->
+
+<!-- <!DOCTYPE html>
+<html>
+<head>
+  <title>Page Title</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <style>
+    pre { -->
+      <!-- /* background-color: #f4f4f4;
+      padding: 10px;
+      border-radius: 4px;
+      max-height: 300px;
+      overflow: auto;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Home</h1>
+<input type="button" onclick="getAllStudents()" value="Get all students">
+<div id="result"><pre></pre></div> */ -->
+
+<!-- <script>
+function getAllStudents() {
+  $.ajax({
+    type: 'GET',
+    url: 'http://localhost:3000/student/',
+    success: function(data) {
+      document.querySelector("#result pre").textContent = JSON.stringify(data, null, 2);
+    },
+    error: function(xhr, status, error) {
+      console.error(error);
+      document.querySelector("#result pre").textContent = "Error fetching data";
+    }
+  });
+}
+</script>
+
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bellanora Products</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <style>
+    pre {
+      background-color: #f4f4f4;
+      padding: 10px;
+      border-radius: 4px;
+      max-height: 300px;
+      overflow: auto;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Bellanora Home</h1>
+<input type="button" onclick="getAllProducts()" value="Get all products">
+<div id="result"><pre></pre></div>
+
+<script>
+function getAllProducts() {
+  $.ajax({
+    type: 'GET',
+    url: 'http://localhost:5000/api/products',
+    success: function(data) {
+      document.querySelector("#result pre").textContent = JSON.stringify(data, null, 2);
+    },
+    error: function(xhr, status, error) {
+      console.error(error);
+      document.querySelector("#result pre").textContent = "Error fetching products";
+    }
+  });
+}
+</script>
+
+</body>
+</html>
