@@ -28,40 +28,63 @@ The system enables customers to browse products, place orders, manage shopping c
 
 Frontend
 
-React
-Redux
-JavaScript
-CSS
+-React
+
+-Redux
+
+-JavaScript
+
+-CSS
 
 Backend
 
-Node.js
-Express.js
-MongoDB
-REST APIs
+-Node.js
+
+-Express.js
+
+-MongoDB
+
+-REST APIs
 
 Cloud & DevOps
 
-AWS EC2
-Nginx Reverse Proxy
-GitHub Actions
-CI/CD Pipeline
-Linux
+-AWS EC2
+
+-Nginx Reverse Proxy
+
+-GitHub Actions
+
+-CI/CD Pipeline
+
+-Linux
 
 🚀 Deployment Architecture
 Users
+
    │
+   
    ▼
+   
 Nginx
+
    │
+   
    ├── Frontend (React)
+   
    │
+   
    └── API Requests
+   
           │
+          
           ▼
+          
       Node.js Server
+      
           │
+          
           ▼
+          
         MongoDB
 
 🔧 Infrastructure
