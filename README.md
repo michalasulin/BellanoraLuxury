@@ -60,31 +60,18 @@ Cloud & DevOps
 
 🚀 Deployment Architecture
 Users
-
    │
-   
    ▼
-   
 Nginx
-
    │
-   
    ├── Frontend (React)
-   
    │
-   
    └── API Requests
-   
           │
-          
           ▼
-          
       Node.js Server
-      
           │
-          
-          ▼
-          
+          ▼ 
         MongoDB
 
 🔧 Infrastructure
@@ -93,6 +80,11 @@ Deployed to AWS EC2
 Configured Nginx as Reverse Proxy
 Automated deployments using GitHub Actions CI/CD
 Managed Linux-based production environment
+
+
+Live Demo:
+http://16.16.149.215
+
 
 📌 Project Goal
 The platform was built to simulate a real-world luxury dessert and catering business workflow, combining e-commerce functionality with order management capabilities and cloud deployment practices.
