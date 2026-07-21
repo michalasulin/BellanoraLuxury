@@ -7,13 +7,21 @@ The system enables customers to browse products, place orders, manage shopping c
 ✨ Key Features
 
 -Customer registration and authentication
+
 -Role-based access control
+
 -Shopping cart management
+
 -Luxury dessert and gift catalog
+
 -Event catering tray ordering
+
 -Order management workflow
+
 -Product and inventory administration
+
 -Secure API communication
+
 -Client-server architecture
 
 🛠 Tech Stack
