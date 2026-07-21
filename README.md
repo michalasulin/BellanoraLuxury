@@ -1,4 +1,5 @@
 🍰Bellanora Luxury
+
 Luxury Dessert & Event Catering Management Platform
 Bellanora Luxury is a full-stack web platform designed for managing premium dessert orders, custom gift boxes, event catering trays, and luxury sweet collections.
 The system enables customers to browse products, place orders, manage shopping carts, and track purchases, while administrators can manage inventory, products, and order workflows through a centralized interface.
